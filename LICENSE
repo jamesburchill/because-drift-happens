@@ -1,0 +1,24 @@
+Creative Commons Attribution 4.0 International
+
+This repository uses the Creative Commons Attribution 4.0 International licence
+for doctrine, documentation, diagrams, examples, and other non-code framework
+materials.
+
+You are free to share and adapt this material for any purpose, including
+commercial use, provided appropriate attribution is given to the original
+source.
+
+Attribution should reference:
+
+Because Drift Happens
+Copyright (c) James Burchill
+https://github.com/jamesburchill/because-drift-happens
+
+The full licence text is available at:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Code Notice
+
+This repository is not primarily a software repository. If code is added later,
+that code may be released under a separate software licence. Any such licence
+will be stated clearly in the relevant files or directories.
