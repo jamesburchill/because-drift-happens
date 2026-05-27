@@ -1,44 +1,79 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
+<div class="bdh-home" markdown>
+
+<section class="bdh-hero" markdown>
+<div class="bdh-hero__copy" markdown>
+
 # Because Drift Happens
 
-Dynamic systems drift.
-
-Autonomous systems drift faster.
-
-Multi-agent systems drift recursively.
+<div class="bdh-premise" markdown>
+<span>Dynamic systems drift.</span>
+<span>Autonomous systems drift faster.</span>
+<span>Multi-agent systems drift recursively.</span>
+</div>
 
 Because Drift Happens is a public doctrine and reference framework for coherent autonomous operations. It defines vocabulary, principles, failure patterns, and architecture concepts for systems that need to remain observable, accountable, governable, and aligned while conditions change.
 
+<div class="bdh-actions" markdown>
+[Start with the manifesto](manifesto.md){ .bdh-button .bdh-button--primary }
+[Browse the glossary](glossary.md){ .bdh-button .bdh-button--secondary }
+</div>
+
+</div>
+
+<figure class="bdh-visual" markdown>
+![Drift and coherence control loop](assets/images/drift-loop.svg)
+</figure>
+</section>
+
+<div class="bdh-band" markdown>
+
+Autonomous systems do not remove drift. They make drift operationally consequential. The question is whether a running system can remain understandable, bounded, auditable, and open to intervention while it adapts.
+
+</div>
+
 ## Start Here
 
-- [Manifesto](manifesto.md): the core architectural position.
-- [Principles](principles.md): the operating assumptions behind the framework.
-- [Reading Map](reading-map.md): a suggested path through the doctrine.
-- [Glossary](glossary.md): the initial shared vocabulary.
+<div class="bdh-section-grid" markdown>
 
-## Core Premise
+[**Manifesto**  
+The core architectural position behind the framework.](manifesto.md){ .bdh-link-card }
 
-Autonomous systems do not remove drift. They make drift operationally consequential.
+[**Principles**  
+The operating assumptions for coherent autonomous operations.](principles.md){ .bdh-link-card }
 
-The question is not whether autonomy is good or bad. The question is whether an autonomous system can remain understandable, bounded, auditable, and open to intervention while it adapts.
+[**Reading Map**  
+A suggested path through the doctrine.](reading-map.md){ .bdh-link-card }
 
-Because Drift Happens treats governance, feedback, observability, intervention, and coherence control as operating infrastructure.
+[**Glossary**  
+The initial shared vocabulary.](glossary.md){ .bdh-link-card }
+
+[**Failure Patterns**  
+Recurring ways autonomous systems lose coherence.](failure-patterns.md){ .bdh-link-card }
+
+[**Architecture Patterns**  
+Control-plane and governance patterns for system design.](architecture-patterns.md){ .bdh-link-card }
+
+</div>
 
 ## What The Framework Covers
 
-- [Drift](drift.md)
-- [Coherence](coherence.md)
-- [Governance](governance.md)
-- [Federation](federation.md)
-- [Control Planes](control-planes.md)
-- [Intervention](intervention.md)
-- [Observability](observability.md)
-
-## Practical Material
-
-- [Failure Patterns](failure-patterns.md)
-- [Architecture Patterns](architecture-patterns.md)
-- [Examples](examples/index.md)
-- [Diagram Backlog](diagrams/index.md)
-- [RFCs](rfcs/index.md)
+<ul class="bdh-compact-list">
+  <li><a href="drift/">Drift</a></li>
+  <li><a href="coherence/">Coherence</a></li>
+  <li><a href="governance/">Governance</a></li>
+  <li><a href="federation/">Federation</a></li>
+  <li><a href="control-planes/">Control planes</a></li>
+  <li><a href="intervention/">Intervention</a></li>
+  <li><a href="observability/">Observability</a></li>
+  <li><a href="examples/">Examples</a></li>
+</ul>
 
 This is not a product repository, vendor framework, compliance checklist, or finished doctrine. It is a public working framework intended to become more precise as the language, patterns, and examples are tested against real operational systems.
+
+</div>
