@@ -21,8 +21,20 @@ Coherence is easiest to claim before a system runs. It is harder to maintain whe
 
 For this reason, coherence should be treated as an operating property. It requires instrumentation, checkpoints, escalation paths, and intervention mechanisms.
 
+## Coherence Requires Energy
+
+Coherence does not sustain itself. Neglected systems accumulate hidden instability even when surface indicators remain acceptable.
+
+Maintaining coherence requires continuous attention to feedback, incentives, boundaries, communication, calibration, and repair. The absence of visible failure often means corrective mechanisms are working, not that correction is unnecessary.
+
 ## Coherence And Tradeoffs
 
 A coherent system does not make every actor agree. It does not require uniform behaviour. It allows local autonomy where local decisions remain compatible with the larger operating model.
 
 The practical question is not "Did every part do the same thing?" The practical question is "Did the parts remain aligned enough for the whole system to preserve intent, accountability, and systemic integrity?"
+
+## Coherence And Direction
+
+Internal coherence and viable direction are separate concerns. A system can be coherent but misdirected, or correctly directed but internally incoherent.
+
+This distinction matters because leadership, governance, and control planes can fail by confusing alignment inside the system with movement toward the right outcome. Healthy systems need both internal coherence and a trajectory that remains compatible with declared intent.

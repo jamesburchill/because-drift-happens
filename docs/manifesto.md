@@ -2,6 +2,8 @@
 
 Drift is not failure. It is the default behaviour of dynamic systems.
 
+Coherence is not the default condition. It is the achievement.
+
 A system that learns, adapts, delegates, scales, or responds to changing context will move. Its state changes. Its assumptions age. Its operating environment shifts. Its feedback arrives late, partially, or unevenly.
 
 Autonomous systems do not remove this movement. They accelerate it.
@@ -9,6 +11,8 @@ Autonomous systems do not remove this movement. They accelerate it.
 Multi-agent systems add another layer. Each agent may hold partial context, optimise locally, delegate work, interpret policy, use tools, and change shared state. The system can appear productive while its parts slowly lose alignment.
 
 Governance is not bureaucracy. It is how systems remain viable under change.
+
+Stability is not motionlessness. Stable systems are often systems under continuous correction.
 
 Autonomy without feedback becomes entropy.
 

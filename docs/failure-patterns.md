@@ -22,6 +22,10 @@ An agent delegates to another agent, which delegates again, causing intent, auth
 
 A workflow continues to run while its quality, coverage, timeliness, or alignment declines. Basic success signals remain green while the real outcome weakens.
 
+## Hidden Micro Drift
+
+The system appears stable at a high level while smaller internal conditions deteriorate. Trust may erode, technical debt may accumulate, incentives may distort, alignment may weaken, or resilience may decline before any obvious external failure appears.
+
 ## Runaway Automation
 
 An automated process repeats, expands, retries, spends, or modifies state beyond intended bounds because stop conditions are weak or missing.
@@ -41,3 +45,7 @@ The system cannot determine who or what has permission to decide, approve, overr
 ## Missing Escalation Path
 
 The system encounters ambiguity, conflict, or risk but has no defined route to a responsible actor or control plane. Execution either stalls or continues without adequate authority.
+
+## Misdirected Coherence
+
+The system remains internally consistent while moving toward an outcome that no longer matches declared intent. Teams, agents, or workflows may agree with each other and still move in the wrong direction.

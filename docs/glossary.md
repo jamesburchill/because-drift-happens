@@ -14,6 +14,10 @@ Regulated alignment across system intent, execution, feedback, and adaptation.
 
 The ability of a running system to remain understandable, governable, accountable, and effective as conditions change.
 
+## Dynamic Stability
+
+The condition where a system appears stable because corrective mechanisms continuously adjust, rebalance, compensate, or recalibrate it.
+
 ## Autonomous System
 
 A system that can make or execute decisions with some degree of independence from direct human instruction at each step.
@@ -57,6 +61,18 @@ The tendency for execution paths to become less predictable, less aligned, or le
 ## Alignment Decay
 
 The gradual weakening of alignment between declared intent and actual system behaviour.
+
+## System Trajectory
+
+The direction a system is moving over time, inferred from repeated observations rather than a single state snapshot.
+
+## Correction Latency
+
+The time between drift emerging, being detected, being evaluated, and being corrected or escalated.
+
+## Hidden Micro Drift
+
+Small internal deterioration that accumulates beneath acceptable high-level signals.
 
 ## Coherence Boundary
 
