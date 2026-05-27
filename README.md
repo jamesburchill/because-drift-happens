@@ -59,11 +59,17 @@ Because Drift Happens positions the problem around operational coherence rather 
 
 ## Repository Map
 
-- [`docs/`](docs/) contains the doctrine, definitions, principles, failure patterns, and conceptual architecture notes.
-- [`diagrams/`](diagrams/) holds diagram plans and placeholders for future visual models.
-- [`examples/`](examples/) contains simple conceptual examples for drift signals, checkpoints, and interventions.
-- [`rfcs/`](rfcs/) records proposed changes to scope, terminology, and framework direction.
+- [`docs/`](docs/) contains the doctrine, definitions, principles, failure patterns, examples, diagram plans, RFCs, and conceptual architecture notes.
+- [`mkdocs.yml`](mkdocs.yml) configures the public documentation site.
 - [`.github/`](.github/) contains issue and pull request templates for public contributions.
+
+## Website
+
+The public site is intended to run at:
+
+https://becausedrifthappens.com/
+
+The site is built with MkDocs and deployed to GitHub Pages.
 
 ## Related Implementation Repos
 

@@ -34,4 +34,4 @@ Read [Failure Patterns](failure-patterns.md) and [Architecture Patterns](archite
 
 ## 7. Review Examples And RFCs
 
-Use the examples directory for simple conceptual scenarios. Use the RFCs directory to understand scope decisions and propose changes to the framework.
+Use [Examples](examples/index.md) for simple conceptual scenarios. Use [RFCs](rfcs/index.md) to understand scope decisions and propose changes to the framework.

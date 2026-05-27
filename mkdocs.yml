@@ -1,0 +1,63 @@
+site_name: Because Drift Happens
+site_url: https://becausedrifthappens.com/
+site_description: A public doctrine and reference framework for coherent autonomous operations.
+repo_name: jamesburchill/because-drift-happens
+repo_url: https://github.com/jamesburchill/because-drift-happens
+edit_uri: edit/main/docs/
+copyright: Copyright &copy; James Burchill
+strict: true
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.action.edit
+    - content.action.view
+  palette:
+    - scheme: default
+      primary: black
+      accent: indigo
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Start Here:
+      - Manifesto: manifesto.md
+      - Principles: principles.md
+      - Reading Map: reading-map.md
+      - Glossary: glossary.md
+  - Core Concepts:
+      - Drift: drift.md
+      - Coherence: coherence.md
+      - Governance: governance.md
+      - Federation: federation.md
+      - Control Planes: control-planes.md
+      - Intervention: intervention.md
+      - Observability: observability.md
+  - Patterns:
+      - Failure Patterns: failure-patterns.md
+      - Architecture Patterns: architecture-patterns.md
+  - Examples:
+      - Overview: examples/index.md
+      - Drift Signal Example: examples/drift-signal-example.md
+      - Governance Checkpoint Example: examples/governance-checkpoint-example.md
+      - Runtime Intervention Example: examples/runtime-intervention-example.md
+  - Diagrams:
+      - Overview: diagrams/index.md
+      - Diagram Placeholders: diagrams/placeholders.md
+  - RFCs:
+      - Overview: rfcs/index.md
+      - "0001: Framework Scope": rfcs/0001-framework-scope.md
