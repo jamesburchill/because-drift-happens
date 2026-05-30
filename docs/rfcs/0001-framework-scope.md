@@ -10,7 +10,7 @@ This RFC defines the initial scope, non-goals, terminology policy, and relations
 
 ## Scope
 
-Because Drift Happens is a public doctrine, vocabulary, and reference framework for coherent autonomous operations. It focuses on:
+Because Drift Happens is a public doctrine, vocabulary, and reference framework for governing intelligent systems as they adapt, delegate, and drift. It focuses on:
 
 - Drift in dynamic, autonomous, and multi-agent systems.
 - Operational coherence under change.
