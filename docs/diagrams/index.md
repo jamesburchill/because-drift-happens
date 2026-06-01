@@ -12,6 +12,16 @@ The current doctrine uses three visual views:
 - **Escalation view:** a vertical stack showing drift escalating from local deviation to autonomous divergence to federated systemic risk.
 - **Governance view:** a paired response model showing awareness, alignment, and coordination as the capabilities that reveal, reduce, and contain drift.
 
+## Current Doctrine Graphics
+
+These generated graphics are draft visual assets for the current doctrine wording. They should be treated as publication candidates, not as editable source files.
+
+![The Drift Doctrine](../assets/images/drift-doctrine.png)
+
+![The Drift Doctrine reference view](../assets/images/drift-doctrine-reference.png)
+
+![The Drift Doctrine social graphic](../assets/images/drift-doctrine-social.png)
+
 ## Expected Diagram Types
 
 Future diagrams may include:

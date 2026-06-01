@@ -4,7 +4,7 @@ This reading path helps new readers move from premise to vocabulary to practical
 
 ## 1. Start With The Position
 
-Read [Doctrine](doctrine.md) first. It states the stable drift and governance triplets.
+Read [Doctrine](doctrine.md) first. It states the stable Drift Doctrine.
 
 ## 2. Read The Manifesto
 

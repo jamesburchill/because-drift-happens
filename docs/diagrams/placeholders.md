@@ -6,15 +6,15 @@ The following diagrams are planned placeholders. Each should be developed only w
 
 A diagram showing how intent, context, execution, outcome, feedback, and adaptation can reinforce or correct drift.
 
-## Drift Triplet Scope View
+## Drift Doctrine Scope View
 
 A nested diagram showing drift, autonomous drift, and federated drift as increasingly broad scopes.
 
-## Drift Triplet Escalation View
+## Drift Doctrine Escalation View
 
 A stacked diagram showing drift escalating from small deviation to autonomous divergence to federated systemic risk.
 
-## Governance Triplet View
+## Drift Doctrine Governance View
 
 A paired response diagram showing awareness revealing drift, alignment reducing drift, and coordination containing drift.
 

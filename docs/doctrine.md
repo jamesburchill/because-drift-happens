@@ -1,12 +1,14 @@
-# Doctrine
+# The Drift Doctrine
 
-Because Drift Happens is built around two complementary triplets: one describes how drift emerges and scales, and the other describes how governance responds.
+![The Drift Doctrine](assets/images/drift-doctrine.png)
+
+Because Drift Happens is built around two complementary halves: one describes how drift emerges and scales, and the other describes how governance responds.
 
 The doctrine is intentionally broad. It applies to software systems, AI systems, teams, organisations, governments, communities, operational processes, and any other system that must remain coherent while conditions change.
 
 AI is one manifestation of the pattern. It is not the boundary of the doctrine.
 
-## Drift Triplet
+## Drift Half
 
 1. **Drift is the default.**
    No system remains perfectly aligned indefinitely. Entropy, environmental change, imperfect information, shifting incentives, and changing conditions naturally introduce drift.
@@ -17,7 +19,7 @@ AI is one manifestation of the pattern. It is not the boundary of the doctrine.
 3. **Federated drift compounds.**
    When multiple autonomous systems interact, local misalignments compound. The resulting behaviour becomes harder to predict and govern.
 
-## Governance Triplet
+## Governance Half
 
 1. **Awareness reveals drift.**
    You cannot govern what you cannot see. Awareness includes visibility, observability, measurement, monitoring, and feedback.
@@ -66,6 +68,6 @@ Doctrine graphics should:
 - Use **Autonomous Drift** in primary doctrine labels.
 - Use **Agentic Drift** only where the context is specifically AI agents or where the graphic intentionally uses it as a subtype or audience hook.
 - Include **Because Drift Happens™** and **© 2026 James Burchill**.
-- Avoid adding extra triplets, extra layers, or complex hierarchies.
+- Avoid adding extra three-part models, extra layers, or complex hierarchies.
 - Avoid making the doctrine AI-specific unless the graphic is explicitly about an AI example.
 - Reinforce, illustrate, test, or apply the six-line doctrine rather than expanding it.

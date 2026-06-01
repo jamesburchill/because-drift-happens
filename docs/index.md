@@ -47,7 +47,7 @@ Autonomous systems do not remove drift. They make drift operationally consequent
 The core architectural position behind the framework.](manifesto.md){ .bdh-link-card }
 
 [**Doctrine**
-The canonical drift and governance triplets.](doctrine.md){ .bdh-link-card }
+The canonical Drift Doctrine.](doctrine.md){ .bdh-link-card }
 
 [**Principles**  
 The operating assumptions for governable intelligent systems.](principles.md){ .bdh-link-card }
