@@ -231,6 +231,31 @@
   font-size: 1.05rem;
 }
 
+.bdh-doctrine-preview {
+  margin: 1rem 0 2.3rem;
+}
+
+.bdh-doctrine-preview p {
+  max-width: 46rem;
+  margin: 0.85rem 0 0;
+  color: var(--bdh-muted);
+  font-size: 0.96rem;
+}
+
+.bdh-doctrine-preview p:first-child {
+  max-width: none;
+  margin: 0;
+}
+
+.bdh-doctrine-preview img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--bdh-line);
+  border-radius: 0.7rem;
+  box-shadow: 0 22px 54px rgba(17, 17, 17, 0.12);
+}
+
 .bdh-compact-list {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));

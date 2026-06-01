@@ -22,8 +22,8 @@ hide:
 Because Drift Happens is a public doctrine and reference framework for governing intelligent systems under change. It defines vocabulary, principles, failure patterns, and architecture concepts for systems that need to remain observable, accountable, governable, and aligned while they adapt.
 
 <div class="bdh-actions" markdown>
-[Start with the manifesto](manifesto.md){ .bdh-button .bdh-button--primary }
-[Browse the glossary](glossary.md){ .bdh-button .bdh-button--secondary }
+[Read the doctrine](doctrine.md){ .bdh-button .bdh-button--primary }
+[Start with the manifesto](manifesto.md){ .bdh-button .bdh-button--secondary }
 </div>
 
 </div>
@@ -39,15 +39,25 @@ Autonomous systems do not remove drift. They make drift operationally consequent
 
 </div>
 
+## Doctrine At A Glance
+
+<section class="bdh-doctrine-preview" markdown>
+
+[![The Drift Doctrine](assets/images/drift-doctrine.png)](doctrine.md)
+
+The Drift Doctrine describes two halves of the same operating reality: drift is inevitable, and governance is essential.
+
+</section>
+
 ## Start Here
 
 <div class="bdh-section-grid" markdown>
 
-[**Manifesto**  
-The core architectural position behind the framework.](manifesto.md){ .bdh-link-card }
-
-[**Doctrine**
+[**Doctrine**<br>
 The canonical Drift Doctrine.](doctrine.md){ .bdh-link-card }
+
+[**Manifesto**<br>
+The core architectural position behind the framework.](manifesto.md){ .bdh-link-card }
 
 [**Principles**  
 The operating assumptions for governable intelligent systems.](principles.md){ .bdh-link-card }
