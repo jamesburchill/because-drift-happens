@@ -29,7 +29,7 @@ Because Drift Happens is a public doctrine and reference framework for governing
 </div>
 
 <figure class="bdh-visual" markdown>
-![Drift and coherence control loop](assets/images/drift-loop.svg)
+![The Drift Doctrine](assets/images/drift-doctrine-hero.svg)
 </figure>
 </section>
 
