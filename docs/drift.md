@@ -39,9 +39,11 @@ Prompt drift occurs when instructions, examples, system messages, retrieval cont
 
 Policy drift occurs when written policy, interpreted policy, and executed policy diverge. This can happen when policies are ambiguous, outdated, unevenly enforced, or not represented in runtime systems.
 
-## Agentic Drift
+## Autonomous Drift
 
-Agentic drift occurs when autonomous or semi-autonomous agents move away from intended behaviour through local optimisation, partial context, tool effects, stale memory, recursive delegation, or unobserved adaptation.
+Autonomous drift occurs when an autonomous or semi-autonomous actor moves away from intended behaviour through local optimisation, partial context, tool effects, stale memory, delegation, changing incentives, or unobserved adaptation.
+
+Agentic drift is an AI-specific subterm beneath autonomous drift. It is acceptable when discussing AI agents, but it should not be treated as the broader master term.
 
 ## Why Drift Matters
 

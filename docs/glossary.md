@@ -22,6 +22,14 @@ The condition where a system appears stable because corrective mechanisms contin
 
 A system that can make or execute decisions with some degree of independence from direct human instruction at each step.
 
+## Autonomous Drift
+
+The master term for drift caused by autonomous or semi-autonomous actors diverging from original intent through local optimisation, partial context, changing incentives, tool effects, stale memory, delegation, or unobserved adaptation.
+
+## Agentic Drift
+
+An AI-specific subterm beneath autonomous drift. Use agentic drift when the context is specifically about AI agents or trend-facing AI discourse.
+
 ## Agent
 
 An autonomous or semi-autonomous actor that interprets context, selects actions, uses tools, delegates tasks, or changes state in pursuit of an objective.
@@ -33,6 +41,10 @@ A system composed of multiple agents that act independently or semi-independentl
 ## Federation
 
 An operating model where multiple agents, services, teams, or systems retain local autonomy while participating in a shared governance structure.
+
+## Federated Drift
+
+The compounding drift that emerges when multiple autonomous systems interact and local misalignments become systemic risk.
 
 ## Control Plane
 

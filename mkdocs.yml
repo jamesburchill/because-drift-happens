@@ -48,6 +48,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Start Here:
+      - Doctrine: doctrine.md
       - Manifesto: manifesto.md
       - Principles: principles.md
       - Reading Map: reading-map.md

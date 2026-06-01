@@ -31,11 +31,11 @@ The work here is deliberately public, evolving, and conceptual. It should become
 
 ## Core Premise
 
-Dynamic systems drift.
+Drift is the default.
 
-Autonomous systems drift faster.
+Autonomous drift is inevitable.
 
-Multi-agent systems drift recursively.
+Federated drift compounds.
 
 Therefore governance, feedback, observability, intervention, and coherence control become operational infrastructure.
 

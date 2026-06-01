@@ -14,9 +14,9 @@ hide:
 <p class="bdh-category">A doctrine for governing intelligent systems as they adapt, delegate, and drift.</p>
 
 <div class="bdh-premise" markdown>
-<span>Dynamic systems drift.</span>
-<span>Autonomous systems drift faster.</span>
-<span>Multi-agent systems drift recursively.</span>
+<span>Drift is the default.</span>
+<span>Autonomous drift is inevitable.</span>
+<span>Federated drift compounds.</span>
 </div>
 
 Because Drift Happens is a public doctrine and reference framework for governing intelligent systems under change. It defines vocabulary, principles, failure patterns, and architecture concepts for systems that need to remain observable, accountable, governable, and aligned while they adapt.
@@ -45,6 +45,9 @@ Autonomous systems do not remove drift. They make drift operationally consequent
 
 [**Manifesto**  
 The core architectural position behind the framework.](manifesto.md){ .bdh-link-card }
+
+[**Doctrine**
+The canonical drift and governance triplets.](doctrine.md){ .bdh-link-card }
 
 [**Principles**  
 The operating assumptions for governable intelligent systems.](principles.md){ .bdh-link-card }
