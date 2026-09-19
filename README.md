@@ -1,6 +1,6 @@
 # Because Drift Happens™
 
-Because Drift Happens is a public doctrine for governing intelligent systems as they adapt, delegate, and drift. It defines the vocabulary, principles, patterns, and architectural concepts needed to keep systems observable, accountable, governable, and aligned while they run.
+Because Drift Happens is James Burchill’s public doctrine for recognizing and responding when businesses, processes, assumptions, and technology drift from their original intent. The technical framework applies this thinking to intelligent and autonomous systems, with vocabulary, principles, patterns, and architectural concepts for keeping them observable, accountable, and aligned.
 
 This is a doctrine/framework repository, not a product repository. It is intended to be the canonical public source for the language and operating model behind drift-aware system design, federated agent governance, runtime control planes, and coherent autonomous AgentOps.
 
