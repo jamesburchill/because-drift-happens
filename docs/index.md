@@ -11,17 +11,11 @@ hide:
 
 # Because Drift Happens™
 
-<p class="bdh-category">A doctrine for recognizing and responding when businesses and their systems drift from their original intent.</p>
+<p class="bdh-category">Ideas on how systems change over time and stay aligned with their purpose.</p>
 
-<div class="bdh-premise" markdown>
-<span>Drift is the default.</span>
-<span>Autonomous drift is inevitable.</span>
-<span>Federated drift compounds.</span>
-</div>
+Plans, processes, and software change over time. Small exceptions accumulate, assumptions become outdated, and what happens in practice can move away from what was intended. Because Drift Happens explores how we notice those changes and decide what to do next.
 
-Businesses, processes, assumptions, and technology change over time. Small exceptions accumulate, context is lost, and what happens in practice can move away from what was intended. Because Drift Happens explores how we recognize that movement and respond while there is still time to influence the outcome.
-
-The technical framework below applies this thinking to intelligent and autonomous systems. It defines vocabulary, principles, failure patterns, and architecture concepts for keeping those systems observable, accountable, and aligned as they adapt.
+The doctrine and technical framework below develop these ideas for intelligent and autonomous systems, with principles, patterns, and examples for keeping them understandable, accountable, and open to intervention.
 
 <div class="bdh-actions" markdown>
 [Read the doctrine](doctrine.md){ .bdh-button .bdh-button--primary }
@@ -93,11 +87,11 @@ Control-plane and governance patterns for system design.](architecture-patterns.
 
 ## The Author and Related Work
 
-Because Drift Happens is developed by [James Burchill](https://jamesburchill.com/), Business Systems Architect, CTO, and bestselling author. It informs his work connecting business priorities, systems design, and practical delivery.
+Because Drift Happens is developed by [James Burchill](https://jamesburchill.com/), Business Systems Architect, CTO, and bestselling author. It brings together his thinking on how systems change and stay aligned with their purpose.
 
 - [The Vault](https://vault.jamesburchill.com/) brings together practical knowledge, essays, field notes, and resources across business and technology.
-- [Driftinel](https://jamesburchill.com/driftinel/) is a drift detection system in development, applying this thinking to the business information an owner chooses to watch.
-- [James’s work and engagements](https://jamesburchill.com/#engagements) span advisory, paid discovery, and separately scoped implementation.
+- [Driftinel](https://jamesburchill.com/driftinel/) is an independent software project in development, exploring business memory, search, and drift detection.
+- [JamesBurchill.com](https://jamesburchill.com/) provides a short biography and contact details.
 
 This is not a product repository, vendor framework, compliance checklist, or finished doctrine. It is a public working framework intended to become more precise as the language, patterns, and examples are tested against real operational systems.
 
