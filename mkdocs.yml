@@ -54,6 +54,7 @@ nav:
       - Manifesto: manifesto.md
       - Principles: principles.md
       - Reading Map: reading-map.md
+      - Guided Exercise: guided-exercise.md
       - Glossary: glossary.md
   - Core Concepts:
       - Drift: drift.md

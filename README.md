@@ -85,6 +85,10 @@ The site is built with MkDocs and deployed to GitHub Pages.
 
 Earlier implementation names (coherence-os, safeagent, vetoguard, and aired) were prospective references, not a verified catalogue of active projects. They do not define the doctrine or imply current availability.
 
+## Guided Practice
+
+After either reading path, readers can complete the [guided exercise](docs/guided-exercise.md). It includes a hypothetical scenario, a response record, a suggested response, self-review questions, a changed-assumption challenge, and a technical extension. It supports practice without claiming assessment or certification.
+
 ## Status and Page Metadata
 
 The six-line doctrine is the stable reference within an evolving public framework. Concepts and graphics are working interpretations, examples are hypothetical, and planned work is labelled separately. See the [reading map](docs/reading-map.md#content-maturity) for the maturity definitions.

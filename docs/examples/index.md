@@ -21,6 +21,10 @@ The examples are intended to show how drift, checkpoints, intervention, and obse
 - [Governance Checkpoint Example](governance-checkpoint-example.md)
 - [Runtime Intervention Example](runtime-intervention-example.md)
 
+## Practise After Reading
+
+Try the [Guided Exercise](../guided-exercise.md) to identify intent, assess evidence, establish authority, and choose a proportionate response. Write your own answer before opening the suggested response.
+
 ## Example Guidelines
 
 Examples should:
