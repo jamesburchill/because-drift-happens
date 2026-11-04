@@ -1,3 +1,10 @@
+---
+title: "RFCs"
+description: "How to propose and record changes to the scope, terminology, principles, and governance model of Because Drift Happens."
+content_type: "contribution-guide"
+maturity: "guide"
+---
+
 # RFCs
 
 This directory records proposed changes to the scope, terminology, principles, patterns, and governance model of Because Drift Happens.

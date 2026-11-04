@@ -1,3 +1,10 @@
+---
+title: "Coherence"
+description: "Explore how intent, execution, feedback, authority, and adaptation stay connected as a system changes."
+content_type: "concept"
+maturity: "working"
+---
+
 # Coherence
 
 Coherence is regulated alignment across intent, execution, feedback, and adaptation. It is the condition that allows a system to change without losing its purpose, accountability, or operating bounds.

@@ -1,3 +1,10 @@
+---
+title: "Governance"
+description: "Understand governance as operational regulation that keeps changing systems accountable through policy, authority, and intervention."
+content_type: "concept"
+maturity: "working"
+---
+
 # Governance
 
 Governance is operational regulation, not paperwork. It is the set of mechanisms that allows a system to act, adapt, and remain accountable under change.

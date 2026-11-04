@@ -1,5 +1,6 @@
 site_name: Because Drift Happens™
 site_url: https://becausedrifthappens.com/
+site_author: James Burchill
 site_description: A doctrine for recognizing and responding when businesses, processes, assumptions, and technology drift from their original intent.
 repo_name: jamesburchill/because-drift-happens
 repo_url: https://github.com/jamesburchill/because-drift-happens
@@ -67,12 +68,37 @@ nav:
       - Architecture Patterns: architecture-patterns.md
   - Examples:
       - Overview: examples/index.md
+      - Business Commitment Example: examples/business-commitment-example.md
       - Drift Signal Example: examples/drift-signal-example.md
       - Governance Checkpoint Example: examples/governance-checkpoint-example.md
       - Runtime Intervention Example: examples/runtime-intervention-example.md
   - Diagrams:
       - Overview: diagrams/index.md
-      - Diagram Placeholders: diagrams/placeholders.md
   - RFCs:
       - Overview: rfcs/index.md
       - "0001: Framework Scope": rfcs/0001-framework-scope.md
+
+not_in_nav: |
+  /diagrams/placeholders.md
+
+extra:
+  author_url: https://jamesburchill.com/
+  maturity_labels:
+    stable:
+      label: Stable doctrine
+      detail: The six-line core is the framework’s reference wording; its explanations and visual interpretations can evolve.
+    working:
+      label: Working interpretation
+      detail: Open to refinement and evidence; not a validated production design.
+    illustrative:
+      label: Illustrative example
+      detail: A hypothetical scenario, not a client case study or production design.
+    planned:
+      label: Planned work
+      detail: A backlog item, not a completed model.
+    accepted:
+      label: Accepted scope
+      detail: A recorded framework decision, not a claim of implementation.
+    guide:
+      label: Reading guide
+      detail: Navigation and context for the evolving body of work.

@@ -1,3 +1,10 @@
+---
+title: "Glossary"
+description: "Working definitions of drift, coherence, autonomous systems, governance, control planes, and intervention."
+content_type: "glossary"
+maturity: "working"
+---
+
 # Glossary
 
 This glossary defines initial terms for Because Drift Happens. Definitions should become more precise as the framework evolves.

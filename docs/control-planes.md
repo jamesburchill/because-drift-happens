@@ -1,3 +1,10 @@
+---
+title: "Control Planes"
+description: "A working model for observing, coordinating, constraining, and intervening above autonomous agents and workflows."
+content_type: "concept"
+maturity: "working"
+---
+
 # Control Planes
 
 Autonomous systems need a control plane above individual agents and workflows. Without that layer, each actor may execute valid local actions while the larger system loses coherence.

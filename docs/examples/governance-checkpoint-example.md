@@ -1,3 +1,10 @@
+---
+title: "Governance Checkpoint Example"
+description: "A hypothetical agent proposes a customer-facing update, showing where policy, authority, and review constrain action."
+content_type: "example"
+maturity: "illustrative"
+---
+
 # Governance Checkpoint Example
 
 ## Scenario

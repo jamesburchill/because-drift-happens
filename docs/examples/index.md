@@ -1,10 +1,21 @@
+---
+title: "Examples"
+description: "Illustrative business and technical scenarios separating drift signals, evidence, authority, decisions, and corrective action."
+content_type: "overview"
+maturity: "guide"
+---
+
 # Examples
 
 This directory contains conceptual examples for Because Drift Happens. These are not production designs or implementation templates.
 
 The examples are intended to show how drift, checkpoints, intervention, and observability can be described in plain operational terms.
 
-## Current Examples
+## Business Example
+
+- [Business Commitment Example](business-commitment-example.md): a changed delivery forecast and an unchanged customer promise.
+
+## Technical Examples
 
 - [Drift Signal Example](drift-signal-example.md)
 - [Governance Checkpoint Example](governance-checkpoint-example.md)

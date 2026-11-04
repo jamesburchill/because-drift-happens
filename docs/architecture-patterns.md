@@ -1,3 +1,10 @@
+---
+title: "Architecture Patterns"
+description: "Developing patterns for drift detection, governance checkpoints, runtime vetoes, delegation, escalation, and audit trails."
+content_type: "patterns"
+maturity: "working"
+---
+
 # Architecture Patterns
 
 These pattern stubs are starting points for future expansion. Each pattern should eventually include intent, context, forces, implementation notes, risks, and example signals.

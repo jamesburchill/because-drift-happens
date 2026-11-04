@@ -1,6 +1,13 @@
+---
+title: "Diagrams"
+description: "Published working illustrations of the Drift Doctrine, with guidance for future visual models and a separate diagram backlog."
+content_type: "visual-models"
+maturity: "working"
+---
+
 # Diagrams
 
-This directory will hold visual models for Because Drift Happens. Diagrams should clarify doctrine, vocabulary, and architecture patterns without turning the framework into a product diagram set.
+This section contains published visual interpretations and planned models for Because Drift Happens. Diagrams should clarify doctrine, vocabulary, and architecture patterns without turning the framework into a product diagram set.
 
 The canonical doctrine graphics should use the language in [Doctrine](../doctrine.md), especially autonomous drift as the master term and agentic drift as an AI-agent subterm.
 
@@ -14,7 +21,7 @@ The current doctrine uses three visual views:
 
 ## Current Doctrine Graphics
 
-These generated graphics are draft visual assets for the current doctrine wording. They should be treated as publication candidates, not as editable source files.
+These generated graphics are published working interpretations of the current doctrine, including graphics used on the homepage and in social previews. The six-line doctrine remains the reference; publication does not make every visual choice final. These raster assets are not editable diagram source files.
 
 ![The Drift Doctrine](../assets/images/drift-doctrine.png)
 
@@ -46,4 +53,4 @@ Diagrams should:
 - Avoid implying that the framework is complete or tied to one implementation.
 - Be understandable without a long explanation.
 
-See [placeholders.md](placeholders.md) for the initial diagram backlog.
+See [Planned Diagrams](placeholders.md) for the diagram backlog. Planned models are separate from the published graphics above.

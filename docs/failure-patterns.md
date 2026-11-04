@@ -1,3 +1,10 @@
+---
+title: "Failure Patterns"
+description: "Working descriptions of recurring ways autonomous systems lose alignment, authority, context, and operational coherence."
+content_type: "patterns"
+maturity: "working"
+---
+
 # Failure Patterns
 
 Failure patterns describe recurring ways autonomous systems can lose coherence. They are not exhaustive. They are early labels for problems that should become easier to detect and discuss.

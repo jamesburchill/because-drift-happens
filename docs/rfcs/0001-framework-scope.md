@@ -1,3 +1,10 @@
+---
+title: "RFC 0001: Framework Scope"
+description: "The accepted scope of the broad Drift Doctrine and its technical framework, including non-goals and implementation-neutral boundaries."
+content_type: "scope-decision"
+maturity: "accepted"
+---
+
 # RFC 0001: Framework Scope
 
 ## Status
@@ -10,7 +17,9 @@ This RFC defines the initial scope, non-goals, terminology policy, and relations
 
 ## Scope
 
-Because Drift Happens is a public doctrine, vocabulary, and reference framework for governing intelligent systems as they adapt, delegate, and drift. It focuses on:
+Because Drift Happens is a public doctrine about drift across businesses, teams, processes, and technology. The six-line [Drift Doctrine](../doctrine.md) is the stable reference; AI is one application, not its boundary.
+
+The technical framework applies that doctrine to intelligent and autonomous systems as they adapt, delegate, and drift. It focuses on:
 
 - Drift in dynamic, autonomous, and multi-agent systems.
 - Operational coherence under change.
@@ -57,4 +66,5 @@ The doctrine repository should remain implementation-neutral. It may reference r
 - Which diagrams should become canonical first?
 - Which failure patterns need evidence-backed examples?
 - Which governance concepts require stricter definitions before implementation work references them?
-- How should the framework distinguish stable doctrine from exploratory hypotheses?
+
+Page maturity is now identified using the [content maturity labels](../reading-map.md#content-maturity). Those labels distinguish the stable core from working interpretations, illustrative examples, and planned work; they do not settle the remaining evidence questions above.

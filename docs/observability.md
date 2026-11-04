@@ -1,3 +1,10 @@
+---
+title: "Observability"
+description: "Make intent, context, authority, actions, outcomes, and system trajectory visible enough to support governance decisions."
+content_type: "concept"
+maturity: "working"
+---
+
 # Observability
 
 Observability for autonomous systems must include more than logs, traces, and metrics. Those remain necessary, but they are not sufficient when systems interpret intent, use tools, delegate work, and change state.

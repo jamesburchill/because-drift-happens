@@ -1,3 +1,10 @@
+---
+title: "Runtime Intervention Example"
+description: "A hypothetical remediation workflow repeatedly restarts services, showing when to pause, inspect, and escalate."
+content_type: "example"
+maturity: "illustrative"
+---
+
 # Runtime Intervention Example
 
 ## Scenario

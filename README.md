@@ -6,7 +6,7 @@ This is a doctrine/framework repository, not a product repository. It is intende
 
 ## What This Is
 
-Because Drift Happens is a category-definition repository for governing intelligent systems in autonomous and semi-autonomous environments.
+Because Drift Happens maintains a broad Drift Doctrine and a technical framework applying it to intelligent and autonomous systems. Readers can follow a [business and organizational path](docs/reading-map.md#business-and-organizational-drift) or a [technical systems and AI governance path](docs/reading-map.md#technical-systems-and-ai-governance).
 
 It provides:
 
@@ -37,7 +37,13 @@ Autonomous drift is inevitable.
 
 Federated drift compounds.
 
-Therefore governance, feedback, observability, intervention, and coherence control become operational infrastructure.
+Awareness reveals drift.
+
+Alignment reduces drift.
+
+Coordination contains drift.
+
+The [doctrine](docs/doctrine.md) contains the canonical six-line form and its explanation.
 
 ## Why This Matters Now
 
@@ -65,24 +71,29 @@ Because Drift Happens positions the problem around operational coherence rather 
 
 ## Website
 
-The public site is intended to run at:
+The public site runs at:
 
 https://becausedrifthappens.com/
 
 The site is built with MkDocs and deployed to GitHub Pages.
 
-## Related Implementation Repos
+## Related Work
 
-The following names are placeholders for related implementation work and future references:
+- [JamesBurchill.com](https://jamesburchill.com/) is the author’s identity, work, and contact hub.
+- [The Vault](https://vault.jamesburchill.com/) holds essays and field notes; [Governing Intelligent Systems](https://vault.jamesburchill.com/governing-intelligent-systems/) is its technical reading guide.
+- [Driftinel](https://driftinel.com/) is a managed service in development applying this thinking to business monitoring. It helps owners spot slipping commitments and emerging problems with supporting evidence. Purchasing is not yet open.
 
-- coherence-os
-- safeagent
-- vetoguard
-- aired
+Earlier implementation names (coherence-os, safeagent, vetoguard, and aired) were prospective references, not a verified catalogue of active projects. They do not define the doctrine or imply current availability.
 
-## Status
+## Status and Page Metadata
 
-This repository is an initial public framework. The doctrine is intentionally incomplete. Contributions should improve precision, examples, diagrams, failure models, terminology, and governance concepts without turning the repository into a product pitch.
+The six-line doctrine is the stable reference within an evolving public framework. Concepts and graphics are working interpretations, examples are hypothetical, and planned work is labelled separately. See the [reading map](docs/reading-map.md#content-maturity) for the maturity definitions.
+
+Each documentation page has YAML front matter with a unique `title` and `description`, a `content_type`, and a `maturity` value. The shared template renders maturity labels, social metadata, and JSON-LD for the website, author, and page. Use `en-CA` for structured-data language and `en_CA` for Open Graph locale. Canonical URLs come from MkDocs; do not duplicate them in front matter or invent publication/review dates.
+
+Allowed maturity values and their public explanations live in `mkdocs.yml` under `extra.maturity_labels`. Existing page URLs are retained, including the planned-diagrams backlog, which is linked from the diagrams overview rather than the primary navigation.
+
+Validate with `python -m pip install -r requirements.txt` in an isolated environment, then `python -m mkdocs build --strict`. Check generated metadata, maturity labels, and internal links before publishing. A successful build does not establish that a deployment occurred.
 
 ## License
 

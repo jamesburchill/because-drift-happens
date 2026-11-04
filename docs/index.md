@@ -1,4 +1,8 @@
 ---
+title: "Because Drift Happens™"
+description: "A public Drift Doctrine for recognizing change in businesses, teams, and technology, with business and technical reading paths."
+content_type: "overview"
+maturity: "guide"
 hide:
   - navigation
   - toc
@@ -15,11 +19,11 @@ hide:
 
 Plans, processes, and software change over time. Small exceptions accumulate, assumptions become outdated, and what happens in practice can move away from what was intended. Because Drift Happens explores how we notice those changes and decide what to do next.
 
-The doctrine and technical framework below develop these ideas for intelligent and autonomous systems, with principles, patterns, and examples for keeping them understandable, accountable, and open to intervention.
+The Drift Doctrine applies across businesses, teams, processes, and technology. Its technical framework develops these ideas for intelligent and autonomous systems. Both explore how to keep changing systems understandable, accountable, and open to intervention.
 
 <div class="bdh-actions" markdown>
 [Read the doctrine](doctrine.md){ .bdh-button .bdh-button--primary }
-[Start with the manifesto](manifesto.md){ .bdh-button .bdh-button--secondary }
+[Choose a reading path](reading-map.md){ .bdh-button .bdh-button--secondary }
 </div>
 
 </div>
@@ -45,6 +49,13 @@ The Drift Doctrine describes two halves of the same operating reality: drift is 
 
 </section>
 
+## Choose Your Reading Path
+
+- [Business and organizational drift](reading-map.md#business-and-organizational-drift): start with commitments, changing assumptions, and the gap between a plan and what happens.
+- [Technical systems and AI governance](reading-map.md#technical-systems-and-ai-governance): explore authority, observability, control planes, and intervention.
+
+The six-line doctrine is the stable reference within this evolving framework. Concept pages are working interpretations, examples are illustrative, and planned work is labelled separately. [How to read the maturity labels](reading-map.md#content-maturity).
+
 ## Start Here
 
 <div class="bdh-section-grid" markdown>
@@ -59,7 +70,7 @@ The core architectural position behind the framework.](manifesto.md){ .bdh-link-
 The operating assumptions for governable intelligent systems.](principles.md){ .bdh-link-card }
 
 [**Reading Map**  
-A suggested path through the doctrine.](reading-map.md){ .bdh-link-card }
+Business and technical paths through the doctrine.](reading-map.md){ .bdh-link-card }
 
 [**Glossary**  
 The initial shared vocabulary.](glossary.md){ .bdh-link-card }
@@ -90,7 +101,8 @@ Control-plane and governance patterns for system design.](architecture-patterns.
 Because Drift Happens is developed by [James Burchill](https://jamesburchill.com/), Business Systems Architect, CTO, and bestselling author. It brings together his thinking on how systems change and stay aligned with their purpose.
 
 - [The Vault](https://vault.jamesburchill.com/) brings together practical knowledge, essays, field notes, and resources across business and technology.
-- [Driftinel](https://jamesburchill.com/driftinel/) is an independent software project in development, exploring business memory, search, and drift detection.
+- [Governing Intelligent Systems](https://vault.jamesburchill.com/governing-intelligent-systems/) is the Vault’s technical reading guide, connecting the framework to essays and field notes.
+- [Driftinel](https://driftinel.com/) is a managed service in development that applies these ideas to business monitoring, helping owners spot slipping commitments and emerging problems with supporting evidence. Purchasing is not yet open.
 - [JamesBurchill.com](https://jamesburchill.com/) provides a short biography and contact details.
 
 This is not a product repository, vendor framework, compliance checklist, or finished doctrine. It is a public working framework intended to become more precise as the language, patterns, and examples are tested against real operational systems.

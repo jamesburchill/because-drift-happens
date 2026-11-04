@@ -1,3 +1,10 @@
+---
+title: "Drift"
+description: "Recognize how organizations, software, infrastructure, policies, and autonomous actors move away from intended operating bounds."
+content_type: "concept"
+maturity: "working"
+---
+
 # Drift
 
 Drift is an inherent property of dynamic systems. It is not an exception condition. It is what happens when systems run in changing environments with changing people, data, dependencies, policies, and incentives.

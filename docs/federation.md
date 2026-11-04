@@ -1,3 +1,10 @@
+---
+title: "Federation"
+description: "Explore how independent agents, services, and teams coordinate within shared boundaries without losing local autonomy."
+content_type: "concept"
+maturity: "working"
+---
+
 # Federation
 
 Federation describes an operating model where multiple agents, services, teams, or systems retain local autonomy while participating in a larger structure.

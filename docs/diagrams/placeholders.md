@@ -1,6 +1,13 @@
-# Diagram Placeholders
+---
+title: "Planned Diagrams"
+description: "The backlog of proposed drift, governance, control-plane, and intervention diagrams; these entries describe unfinished work."
+content_type: "backlog"
+maturity: "planned"
+---
 
-The following diagrams are planned placeholders. Each should be developed only when the underlying concept is clear enough to represent visually.
+# Planned Diagrams
+
+The following entries describe planned diagram work, not completed models. The [diagrams overview](index.md) shows the currently published working graphics. Each planned model should be developed only when its underlying concept is clear enough to represent visually.
 
 ## Drift Loop
 

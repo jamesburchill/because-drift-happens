@@ -1,3 +1,10 @@
+---
+title: "Intervention"
+description: "Understand holds, vetoes, redirection, rollback, containment, and escalation as controls for autonomous processes."
+content_type: "concept"
+maturity: "working"
+---
+
 # Intervention
 
 Intervention is a deliberate action that changes the course of an autonomous process. It can pause, redirect, reject, roll back, contain, or escalate execution.

@@ -1,3 +1,10 @@
+---
+title: "Principles"
+description: "Working principles for governable autonomous operations, including explicit authority, feedback, intervention, and continuous correction."
+content_type: "principles"
+maturity: "working"
+---
+
 # Principles
 
 These principles define a starting point for coherent autonomous operations. They are intended as working doctrine, not final law.

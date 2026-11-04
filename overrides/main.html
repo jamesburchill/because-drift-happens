@@ -1,14 +1,61 @@
 {% extends "base.html" %}
 
+{% block htmltitle %}
+  {% if page and page.is_homepage %}
+    <title>{{ config.site_name | e }}</title>
+  {% else %}
+    {{ super() }}
+  {% endif %}
+{% endblock %}
+
 {% block extrahead %}
   {{ super() }}
+  {% if page %}
+  {% set title = page.meta.title or page.title or config.site_name %}
+  {% set description = page.meta.description or config.site_description %}
+  {% set canonical = page.canonical_url or config.site_url %}
+  {% set social_title = title if page.is_homepage else title ~ " | " ~ config.site_name %}
+  {% set social_image = config.site_url ~ "assets/images/drift-doctrine-social.png" %}
+  {% set person_id = config.extra.author_url ~ "#person" %}
   <meta property="og:type" content="website">
-  <meta property="og:title" content="{{ page.meta.title if page.meta and page.meta.title else config.site_name }}">
-  <meta property="og:description" content="{{ page.meta.description if page.meta and page.meta.description else config.site_description }}">
-  <meta property="og:url" content="{{ page.canonical_url if page.canonical_url else config.site_url }}">
-  <meta property="og:image" content="{{ config.site_url }}assets/images/drift-doctrine-social.png">
+  <meta property="og:site_name" content="{{ config.site_name | e }}">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:title" content="{{ social_title | e }}">
+  <meta property="og:description" content="{{ description | e }}">
+  <meta property="og:url" content="{{ canonical | e }}">
+  <meta property="og:image" content="{{ social_image | e }}">
+  <meta property="og:image:alt" content="The Drift Doctrine: drift and its governance response">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ page.meta.title if page.meta and page.meta.title else config.site_name }}">
-  <meta name="twitter:description" content="{{ page.meta.description if page.meta and page.meta.description else config.site_description }}">
-  <meta name="twitter:image" content="{{ config.site_url }}assets/images/drift-doctrine-social.png">
+  <meta name="twitter:title" content="{{ social_title | e }}">
+  <meta name="twitter:description" content="{{ description | e }}">
+  <meta name="twitter:image" content="{{ social_image | e }}">
+  <meta name="twitter:image:alt" content="The Drift Doctrine: drift and its governance response">
+  <script type="application/ld+json">
+  {{ {
+    "@context": "https://schema.org",
+    "@graph": [
+      {"@type": "Person", "@id": person_id, "name": config.site_author, "url": config.extra.author_url},
+      {"@type": "WebSite", "@id": config.site_url ~ "#website", "name": config.site_name,
+       "url": config.site_url, "inLanguage": "en-CA", "publisher": {"@id": person_id}},
+      {"@type": "WebPage", "@id": canonical ~ "#webpage", "name": title,
+       "description": description, "url": canonical, "inLanguage": "en-CA",
+       "isPartOf": {"@id": config.site_url ~ "#website"}, "author": {"@id": person_id},
+       "genre": page.meta.content_type,
+       "creativeWorkStatus": config.extra.maturity_labels[page.meta.maturity].label if page.meta.maturity else "Working interpretation",
+       "license": "https://creativecommons.org/licenses/by/4.0/"}
+    ]
+  } | tojson }}
+  </script>
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+  {% if page and page.meta.maturity %}
+    {% set maturity = config.extra.maturity_labels[page.meta.maturity] %}
+    <aside class="admonition note" aria-label="Content maturity">
+      <p class="admonition-title">{{ maturity.label | e }}</p>
+      <p>{{ maturity.detail | e }} <a href="{{ 'reading-map/#content-maturity' | url }}">About these labels</a>.</p>
+    </aside>
+  {% endif %}
+  {{ super() }}
 {% endblock %}

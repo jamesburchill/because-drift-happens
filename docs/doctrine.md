@@ -1,3 +1,10 @@
+---
+title: "The Drift Doctrine"
+description: "The six-line Drift Doctrine: how drift emerges and how awareness, alignment, and coordination reveal, reduce, and contain it."
+content_type: "doctrine"
+maturity: "stable"
+---
+
 # The Drift Doctrine
 
 ![The Drift Doctrine](assets/images/drift-doctrine.png)

@@ -1,3 +1,10 @@
+---
+title: "Manifesto"
+description: "The architectural argument for governing autonomous systems through feedback, observability, intervention, and operational coherence."
+content_type: "interpretation"
+maturity: "working"
+---
+
 # Manifesto
 
 Drift is not failure. It is the default behaviour of dynamic systems.

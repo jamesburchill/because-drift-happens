@@ -1,3 +1,10 @@
+---
+title: "Drift Signal Example"
+description: "A hypothetical reporting workflow omits newly tagged incidents, illustrating drift in retrieval freshness and coverage."
+content_type: "example"
+maturity: "illustrative"
+---
+
 # Drift Signal Example
 
 ## Scenario
