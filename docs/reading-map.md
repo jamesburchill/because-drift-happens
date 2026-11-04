@@ -15,7 +15,8 @@ Start with the [Drift Doctrine](doctrine.md), then choose the path closest to yo
 2. Read [Drift](drift.md) for changes in assumptions, incentives, policies, and operating conditions.
 3. Read [Coherence](coherence.md) for keeping intent, actions, feedback, and accountability connected.
 4. Work through the [Business Commitment Example](examples/business-commitment-example.md): a delivery forecast changes while the customer promise stays the same.
-5. Continue with [By Inches](https://vault.jamesburchill.com/content/2026/05/by-inches/) in the Vault for an essay on how small deviations accumulate.
+5. Practise with the [Guided Exercise](guided-exercise.md): assess a delivery risk, choose a response, and compare your reasoning.
+6. Continue with [By Inches](https://vault.jamesburchill.com/content/2026/05/by-inches/) in the Vault for an essay on how small deviations accumulate.
 
 The practical questions are: what was intended, what changed, what evidence supports the signal, and who has authority to respond? A changed plan is not automatically a failure; the response may be to correct execution or explicitly agree on a new commitment.
 
@@ -52,6 +53,10 @@ Read [Failure Patterns](failure-patterns.md) and [Architecture Patterns](archite
 ### 8. Review Examples And RFCs { #8-review-examples-and-rfcs }
 
 Use [Examples](examples/index.md) for illustrative scenarios and [RFCs](rfcs/index.md) for recorded scope decisions. Continue with the Vault’s [Governing Intelligent Systems](https://vault.jamesburchill.com/governing-intelligent-systems/) guide for related essays and field notes.
+
+## Practise Applying the Ideas
+
+After either path, complete the [Guided Exercise: Recognize and Respond to Drift](guided-exercise.md). Allow 15–20 minutes to assess a hypothetical report-delivery problem, write a response plan, and compare it with a suggested response. A changed-assumption challenge and a technical extension help you apply the ideas beyond the initial scenario.
 
 ## Content Maturity
 
