@@ -17,7 +17,7 @@ hide:
 
 <p class="bdh-category">Ideas on how systems change over time and stay aligned with their purpose.</p>
 
-Plans, processes, and software change over time. Small exceptions accumulate, assumptions become outdated, and what happens in practice can move away from what was intended. Because Drift Happens explores how we notice those changes and decide what to do next.
+Plans, processes, and software change over time. Small exceptions accumulate, assumptions become outdated, and what happens in practice can move away from what was intended. Because Drift Happens explores how we notice those changes and decide what to do next. A commitment slips, operating conditions move beyond agreed limits, or an expected signal goes quiet. The shared question is how to recognize meaningful drift with enough notice and context to respond.
 
 The Drift Doctrine applies across businesses, teams, processes, and technology. Its technical framework develops these ideas for intelligent and autonomous systems. Both explore how to keep changing systems understandable, accountable, and open to intervention.
 
@@ -102,8 +102,13 @@ Because Drift Happens is developed by [James Burchill](https://jamesburchill.com
 
 - [The Vault](https://vault.jamesburchill.com/) brings together practical knowledge, essays, field notes, and resources across business and technology.
 - [Governing Intelligent Systems](https://vault.jamesburchill.com/governing-intelligent-systems/) is the Vault’s technical reading guide, connecting the framework to essays and field notes.
-- [Driftinel](https://driftinel.com/) is a managed service in development that applies these ideas to business monitoring, helping owners spot slipping commitments and emerging problems with supporting evidence. Purchasing is not yet open.
+- [James Media Group](https://jamesmediagroup.ca/) applies this thinking through consulting, custom software, automation, monitoring, and implementation. Its [services](https://jamesmediagroup.ca/services/) support both problems that need investigation and defined projects ready to scope.
+- [Driftinel](https://driftinel.com/) focuses on slipping commitments in approved email accounts, with supporting messages to help an owner decide how to follow up. Access is by invitation; it is not generally available.
+- [Telemetry Sentinel](https://telemetrysentinel.com/) offers tailored remote monitoring proposals for environmental conditions, device telemetry, power, and signals that stop reporting.
+- [BaileyBot](https://baileybot.com/) is an email-first follow-through assistant being built to keep deadlines, renewals, and promises in view. It is currently waitlist-only.
 - [JamesBurchill.com](https://jamesburchill.com/) provides a short biography and contact details.
+
+The framework supplies the language and reasoning; the products explore particular applications. Their capabilities and availability are described on their own sites.
 
 This is not a product repository, vendor framework, compliance checklist, or finished doctrine. It is a public working framework intended to become more precise as the language, patterns, and examples are tested against real operational systems.
 
