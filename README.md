@@ -115,3 +115,9 @@ The homepage connects the broad drift premise to commitments, operating conditio
 This is a focused homepage and repository-orientation copy update. Page titles/descriptions, canonical URLs, social metadata/artwork, structured-data IDs, theme, site navigation, and existing documentation URLs are preserved. No product features, certifications, customer results, or general availability are claimed.
 
 Validation: strict MkDocs builds passed for the original and revised site in an isolated temporary environment using the repository’s pinned MkDocs/Material versions. Compared all 27 generated HTML pages: titles, metadata, canonical URLs, and JSON-LD are unchanged. Sitemap URLs and artwork are unchanged; generated homepage links/anchors pass checks. Desktop hero/related-work layouts and 390-pixel mobile overflow/image loading were checked. No dependency pins, framework concepts, or site configuration changed.
+
+## Approved sharing and search refresh — November 17, 2026
+
+Homepage search/sharing metadata describes a working framework for understanding drift. The homepage uses the approved `docs/assets/images/framework-social-2026-11-17.png` card and its editable SVG. Documentation keeps its page-specific titles, descriptions, canonical URLs, maturity labels, conceptual claims and existing artwork. The shared site description follows the approved working-framework language; documentation descriptions take precedence.
+
+Validation: strict MkDocs build passed. Compared 27 generated HTML pages against a fresh build of the prior commit: main content and all canonical URLs are unchanged. Non-home documentation titles, descriptions, sharing artwork and JSON-LD (including maturity labels) are unchanged; the 404 page uses the approved fallback description.

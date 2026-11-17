@@ -1,6 +1,8 @@
 ---
-title: "Because Drift Happens™"
-description: "A public Drift Doctrine for recognizing change in businesses, teams, and technology, with business and technical reading paths."
+title: "Because Drift Happens | A Framework for Understanding Drift"
+description: "A working framework for understanding drift in businesses, teams and technology, with practical concepts, examples and reading paths."
+social_image: "assets/images/framework-social-2026-11-17.png"
+social_image_alt: "Because Drift Happens. A framework for understanding drift. Working framework by James Burchill."
 content_type: "overview"
 maturity: "guide"
 hide:
