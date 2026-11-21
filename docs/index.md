@@ -107,7 +107,6 @@ Because Drift Happens is developed by [James Burchill](https://jamesburchill.com
 - [James Media Group](https://jamesmediagroup.ca/) applies this thinking through consulting, custom software, automation, monitoring, and implementation. Its [services](https://jamesmediagroup.ca/services/) support both problems that need investigation and defined projects ready to scope.
 - [Driftinel](https://driftinel.com/) focuses on slipping commitments in approved email accounts, with supporting messages to help an owner decide how to follow up. Access is by invitation; it is not generally available.
 - [Telemetry Sentinel](https://telemetrysentinel.com/) offers tailored remote monitoring proposals for environmental conditions, device telemetry, power, and signals that stop reporting.
-- [BaileyBot](https://baileybot.com/) is an email-first follow-through assistant being built to keep deadlines, renewals, and promises in view. It is currently waitlist-only.
 - [JamesBurchill.com](https://jamesburchill.com/) provides a short biography and contact details.
 
 The framework supplies the language and reasoning; the products explore particular applications. Their capabilities and availability are described on their own sites.
